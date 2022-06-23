@@ -7,3 +7,5 @@
 - Save file
 - Copy/Paste/Cut text
 - Change canvas background and text color
+
+## To Download the app goto the dist folder and download the file "Vpad Text Editor-0.1-win64.msi"
